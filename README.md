@@ -33,18 +33,26 @@ I am a Full Stack Developer from India.
 
 ### TradeBook Application
 <p>
-<img src="images/1.webp" alt="E-Commerce Website" width="150px" height="300px" />&nbsp;
-<img src="images/2.webp" alt="E-Commerce Website" width="150px" height="300px" />&nbsp;
-<img src="images/3.webp" alt="E-Commerce Website" width="150px" height="300px" />&nbsp;
-<img src="images/4.webp" alt="E-Commerce Website" width="150px" height="300px" />&nbsp;
-<img src="images/5.webp" alt="E-Commerce Website" width="150px" height="300px" />&nbsp;
-<img src="images/6.webp" alt="E-Commerce Website" width="150px" height="300px" />&nbsp;
-<img src="images/7.webp" alt="E-Commerce Website" width="150px" height="300px" />&nbsp;
+<img src="images/1.webp"  width="150px" height="300px" />&nbsp;
+<img src="images/2.webp"  width="150px" height="300px" />&nbsp;
+<img src="images/3.webp"  width="150px" height="300px" />&nbsp;
+<img src="images/4.webp"  width="150px" height="300px" />&nbsp;
+<img src="images/5.webp"  width="150px" height="300px" />&nbsp;
+<img src="images/6.webp"  width="150px" height="300px" />&nbsp;
+<img src="images/7.webp"  width="150px" height="300px" />&nbsp;
 </p>
 
 TradeBook is a Fintech application that is live on the Play Store and the App Store. It utilizes a microservices architecture with technologies including Flutter, Node.js, Python, Docker, AWS EC2, and S3 bucket. It took 2.5 months to complete this application system, resulting in an amazing user experience with amazing features too.
 
 Live Demo: [Play store](https://play.google.com/store/apps/details?id=com.we3.tradebook.app), [App Store](https://apps.apple.com/in/app/tradebook-one-stop-solution/id1659276893)
+
+
+### TradeBook Website
+
+<img src="images/8Website.png"  height="300px" />
+TradeBook website is landing page for marketing purpose added features like payment gatway for plan purchase, support/contact features, download application redirect based on device type.
+
+Live Demo: [TradeBook](https://play.google.com/store/apps/details?id=com.we3.tradebook.app)
 
 ## Contact
 

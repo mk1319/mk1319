@@ -12,7 +12,15 @@ I am a Full Stack Developer from India.
 ## Projects
 
 ### TradeBook Application
-![TradeBook](images/1.webp)
+<p>
+<img src="images/1.webp" alt="E-Commerce Website" width="150px" height="300px" />&nbsp;
+<img src="images/2.webp" alt="E-Commerce Website" width="150px" height="300px" />&nbsp;
+<img src="images/3.webp" alt="E-Commerce Website" width="150px" height="300px" />&nbsp;
+<img src="images/4.webp" alt="E-Commerce Website" width="150px" height="300px" />&nbsp;
+<img src="images/5.webp" alt="E-Commerce Website" width="150px" height="300px" />&nbsp;
+<img src="images/6.webp" alt="E-Commerce Website" width="150px" height="300px" />&nbsp;
+<img src="images/7.webp" alt="E-Commerce Website" width="150px" height="300px" />&nbsp;
+</p>
 Description: A brief description of what this project is about.
 GitHub Repository: [Project 1 Repo](https://github.com/yourusername/project1)
 Live Demo: [Project 1 Demo](https://yourusername.github.io/project1)

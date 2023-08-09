@@ -31,7 +31,7 @@ I am a Full Stack Developer from India.
 
 ## Projects
 
-### TradeBook Application
+- ### TradeBook Application
 <p>
 <img src="images/1.webp"  width="150px" height="300px" />&nbsp;
 <img src="images/2.webp"  width="150px" height="300px" />&nbsp;
@@ -47,7 +47,7 @@ TradeBook is a Fintech application that is live on the Play Store and the App St
 Live Demo: [Play store](https://play.google.com/store/apps/details?id=com.we3.tradebook.app), [App Store](https://apps.apple.com/in/app/tradebook-one-stop-solution/id1659276893)
 
 
-### TradeBook Website
+- ### TradeBook Website
 
 <img src="images/8Website.png" width="450px" height="300px" />
 TradeBook website is landing page for marketing purpose added features like payment gatway for plan purchase, support/contact features, download application redirect based on device type.
@@ -55,7 +55,7 @@ TradeBook website is landing page for marketing purpose added features like paym
 Live Demo: [TradeBook](https://play.google.com/store/apps/details?id=com.we3.tradebook.app)
 
 
-### ConnectTheRelevant
+- ### ConnectTheRelevant
 <p>
   <img src="images/connectRelevant1.jpg" width="150px" height="300px"/>
   <img src="images/connectRelevant2.jpg" width="150px" height="300px" />
@@ -68,13 +68,13 @@ ConnectTheRelevant is my recent freelance project built using Flutter, Node.js a
 The application will be live in the first week of September
 
 
-### xCallisto 
+- ### xCallisto 
 
 xCallisto is software that manages a larger amount of data for swim schools. The client, based in the US, wanted to create software that could manage all student records, class schedules, etc. We have developed a dashboard where student data will be managed, along with several machine learning algorithms that can predict, based on the data, whether a student is likely to leave the swim school or not. This software was built using React, NodeJs, Python, Azure SQL, Azure Functions, and Azure Queue
 
 Live Demo : Not available because of dashboard.
 
-### Learnx.Me
+- ### Learnx.Me
 <p>
   <img src="images/learnx6.jpeg" width="450px" height="300px" /> 
   <img src="images/learnx1.jpeg" width="450px" height="300px" />

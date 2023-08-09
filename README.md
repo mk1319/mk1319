@@ -12,7 +12,7 @@ I am a Full Stack Developer from India.
 ## Projects
 
 ### TradeBook Application
-![TradeBook](tradebook.jpg)
+![TradeBook](images/1.jpg)
 Description: A brief description of what this project is about.
 GitHub Repository: [Project 1 Repo](https://github.com/yourusername/project1)
 Live Demo: [Project 1 Demo](https://yourusername.github.io/project1)

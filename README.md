@@ -49,19 +49,33 @@ Live Demo: [Play store](https://play.google.com/store/apps/details?id=com.we3.tr
 
 ### TradeBook Website
 
-<img src="images/8Website.png"  height="300px" />
+<img src="images/8Website.png" width="450px" height="300px" />
 TradeBook website is landing page for marketing purpose added features like payment gatway for plan purchase, support/contact features, download application redirect based on device type.
 
 Live Demo: [TradeBook](https://play.google.com/store/apps/details?id=com.we3.tradebook.app)
 
+
+### ConnectTheRelevant
+<p>
+  <img src="images/connectRelevant1.jpg" width="150px" height="300px"/>
+  <img src="images/connectRelevant2.jpg" width="150px" height="300px" />
+  <img src="images/connectRelevant3.jpg" width="150px" height="300px" />
+  <img src="images/connectRelevant4.jpg" width="150px" height="300px" />
+</p>
+
+ConnectTheRelevant is my recent freelance project built using Flutter, Node.js and websockets. For this project, the clients only requested the chat features of the application, which include both single and group-based chats, along with multiple functionalities such as delete, message view, and blocking features.
+
+The application will be live in the first week of September
+
+
 ## Contact
 
-You can reach me at your.email@example.com.
+You can reach me at srankwork@gmail.com.
 
 ## Connect with Me
 
-- [GitHub](https://github.com/yourusername)
-- [LinkedIn](https://www.linkedin.com/in/yourusername)
-- [Twitter](https://twitter.com/yourusername)
+- [GitHub](https://github.com/mk1319)
+- [LinkedIn](https://in.linkedin.com/in/mukesh-rajpurohit-39147016b)
+- 
 
-Feel free to explore my projects and get in touch!
+Feel free to get in touch!

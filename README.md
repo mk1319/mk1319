@@ -68,6 +68,12 @@ ConnectTheRelevant is my recent freelance project built using Flutter, Node.js a
 The application will be live in the first week of September
 
 
+### xCallisto 
+
+xCallisto is software that manages a larger amount of data for swim schools. The client, based in the US, wanted to create software that could manage all student records, class schedules, etc. We have developed a dashboard where student data will be managed, along with several machine learning algorithms that can predict, based on the data, whether a student is likely to leave the swim school or not. This software was built using React, NodeJs, Python, Azure SQL, Azure Functions, and Azure Queue
+
+Live Demo : Not available because of dashboard.
+
 ### Learnx.Me
 <p>
   <img src="images/learnx6.jpeg" width="450px" height="300px" /> 

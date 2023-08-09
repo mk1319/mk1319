@@ -46,23 +46,6 @@ TradeBook is a Fintech application that is live on the Play Store and the App St
 
 Live Demo: [Play store](https://play.google.com/store/apps/details?id=com.we3.tradebook.app), [App Store](https://apps.apple.com/in/app/tradebook-one-stop-solution/id1659276893)
 
-
-### Project 2: Cool Website
-![Project 2](project2_image.jpg)
-Description: Another project description.
-GitHub Repository: [Project 2 Repo](https://github.com/yourusername/project2)
-Live Demo: [Project 2 Demo](https://yourusername.github.io/project2)
-
-### Project 3: Creative Game
-![Project 3](project3_image.jpg)
-Description: Description of your third project.
-GitHub Repository: [Project 3 Repo](https://github.com/yourusername/project3)
-Live Demo: [Project 3 Demo](https://yourusername.github.io/project3)
-
-## About Me
-
-A little bit about who I am and what motivates me in the world of software development.
-
 ## Contact
 
 You can reach me at your.email@example.com.

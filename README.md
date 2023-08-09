@@ -8,7 +8,7 @@ I am a Full Stack Developer from India.
 - Throughout my experience, I have worked with a variety of tech stacks, covering a wide range of development areas including web, Android, iOS development, cloud technologies like AWS, and ML & AI..
 - How to reach me: [Linkedin](https://in.linkedin.com/in/mukesh-rajpurohit-39147016b).
 
-### 🛠 &nbsp;Languages and Tools :
+## Languages and Tools :
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp
@@ -41,9 +41,11 @@ I am a Full Stack Developer from India.
 <img src="images/6.webp" alt="E-Commerce Website" width="150px" height="300px" />&nbsp;
 <img src="images/7.webp" alt="E-Commerce Website" width="150px" height="300px" />&nbsp;
 </p>
-Description: A brief description of what this project is about.
-GitHub Repository: [Project 1 Repo](https://github.com/yourusername/project1)
-Live Demo: [Project 1 Demo](https://yourusername.github.io/project1)
+
+TradeBook is a Fintech application that is live on the Play Store and the App Store. It utilizes a microservices architecture with technologies including Flutter, Node.js, Python, Docker, AWS EC2, and S3 bucket. It took 2.5 months to complete this application system, resulting in an amazing user experience with amazing features too.
+
+Live Demo: [Play store](https://play.google.com/store/apps/details?id=com.we3.tradebook.app), [App Store](https://apps.apple.com/in/app/tradebook-one-stop-solution/id1659276893)
+
 
 ### Project 2: Cool Website
 ![Project 2](project2_image.jpg)

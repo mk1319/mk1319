@@ -70,6 +70,7 @@ The application will be live in the first week of September
 
 ### Learnx.Me
 <p>
+  <img src="images/learnx6.jpeg" width="450px" height="300px" /> 
   <img src="images/learnx1.jpeg" width="450px" height="300px" />
 </p>
 
@@ -85,7 +86,7 @@ and etc...
 
 Live Demo : [Learnx.me](https://learnx.me/) 
 
-
+Note: This was my first freelance project four years ago. The website is currently down.
 
 
 

@@ -68,6 +68,27 @@ ConnectTheRelevant is my recent freelance project built using Flutter, Node.js a
 The application will be live in the first week of September
 
 
+### Learnx.Me
+<p>
+  <img src="images/learnx1.jpeg" width="450px" height="300px" />
+</p>
+
+Learnx.Me is platform just like udmey, Client want to create website where user can watch and learn and get certificate for same. 
+This project built using Next.js and it's pwa application , you can install in any device.
+
+- Next.js + pwa + mysql
+- Paytm Payment gateway.
+- customize video player and smooth streaming lectures.
+- interactive user + admin dashboard.
+- reset password link, expired in 15 min
+and etc...
+
+Live Demo : [Learnx.me](https://learnx.me/) 
+
+
+
+
+
 ## Contact
 
 You can reach me at srankwork@gmail.com.
@@ -76,6 +97,6 @@ You can reach me at srankwork@gmail.com.
 
 - [GitHub](https://github.com/mk1319)
 - [LinkedIn](https://in.linkedin.com/in/mukesh-rajpurohit-39147016b)
-- 
+
 
 Feel free to get in touch!

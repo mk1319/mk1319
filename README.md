@@ -67,6 +67,18 @@ ConnectTheRelevant is my recent freelance project built using Flutter, Node.js a
 
 The application will be live in the first week of September
 
+### Blog panel
+
+The Blog Panel is a tool I have created to enable the addition and creation of dynamic blogs, similar to what Medium provides.
+
+Live Demo [Blog Panel](https://blog-panel-3999b3805ccc.herokuapp.com/)
+
+### SEO Keywords Test
+
+This tool is built for marketing companies that want to assess the performance of their company articles and new content. There is a set of rules and algorithms provided by the client as a requirement.
+
+Live Demo [SEO](https://seo-keyword-c7fff5da1dde.herokuapp.com/)
+
 
 - ### xCallisto 
 
